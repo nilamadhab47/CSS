@@ -1,0 +1,29 @@
+h2{
+    color:rgb(0, 255, 55);
+}
+.red{
+    color:rgb(216, 159, 159);
+}
+
+#footer{
+    color:rgb(237, 22, 155);
+}
+
+a{
+    color: rgb(211, 53, 80);
+}
+
+a[href^="http://google.com"]{
+    color: rgb(111, 255, 0);
+}
+
+footer p{
+    color:rgb(211, 53, 80)
+}
+footer > p{
+    color:violet
+}
+
+h2 ~ p{
+    color:antiquewhite
+}
