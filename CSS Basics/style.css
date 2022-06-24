@@ -1,0 +1,28 @@
+/* CSS - Cascading style sheet 
+CSS = Style + layout
+
+Three types of stylesheets:
+1. User-agent stylesheets
+2. User stylesheets
+3. Authors stylesheets
+
+CSS is a collection of Declaration 
+
+property: value;
+
+*/
+
+h1{
+    text-align: center;
+    color: rgba(213, 85, 25, 0.71);
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+p{
+    background-color: lightblue;
+    color: black;
+    min-height: 100px;
+    font-size: 1.25em;
+    width: 30%;
+}
